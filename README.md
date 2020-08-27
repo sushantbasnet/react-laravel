@@ -9,8 +9,5 @@ www.stylustechnepal.com
 
 Samples :
 
-https://ibb.co/p3kpLKb
-
-https://ibb.co/r7H3SGK
-
+<a href="https://ibb.co/p3kpLKb"><img src="https://i.ibb.co/p3kpLKb/Screenshot-10.jpg" alt="Screenshot-10" border="0"></a> <a href="https://ibb.co/r7H3SGK"><img src="https://i.ibb.co/r7H3SGK/Screenshot-11.jpg" alt="Screenshot-11" border="0"></a>
 
